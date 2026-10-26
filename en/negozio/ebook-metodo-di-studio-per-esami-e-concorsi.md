@@ -7,4 +7,6 @@ description: "Study Method for Exams - PDF ebook."
 lang: en
 locale: en
 ref: shop-prod-ebook-metodo-di-studio-per-esami-e-concorsi
+tr: tradotto
+tr_hash: 45h
 ---

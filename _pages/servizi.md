@@ -4,20 +4,20 @@ title: "Servizi"
 permalink: /servizi/
 ref: servizi
 author_profile: false
-seo_description: "I nostri servizi."
+seo_description: "Cosa trovi da Casa Editrice Ebook e come funziona l'acquisto."
 ---
 
-Una frase che presenta i servizi. Il prezzo e le condizioni si indicano solo se sono reali.
+Ebook in PDF su temi pratici, in italiano. Ecco cosa trovi e come funziona.
 
-## Primo servizio
-Descrizione del primo servizio: cosa include e per chi è.
+## Ebook
+Guide da 7,90 a 24,90 euro, divise in sette categorie: AI e prompt, creatività, lingue e studio, sviluppo personale, finanza, salute e business.
 
-## Secondo servizio
-Descrizione del secondo servizio.
+## Anteprima gratuita e bundle
+Per ogni categoria stiamo preparando un'anteprima gratuita dei primi capitoli e un pacchetto di tre ebook a prezzo ridotto.
 
-## Come si svolge un incarico
-1. **Primo passo**: descrizione.
-2. **Secondo passo**: descrizione.
-3. **Terzo passo**: descrizione.
+## Come funziona l'acquisto
+1. **Scegli** l'ebook dal [catalogo]({{ '/negozio/' | relative_url }}).
+2. **Acquista** dal carrello.
+3. **Leggi** il PDF dove vuoi, su telefono, tablet o computer.
 
 [Contattaci]({{ '/contatti/' | relative_url }}){: .btn .btn--primary}

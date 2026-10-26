@@ -7,4 +7,6 @@ description: "AI Images: A Practical Prompt Guide - PDF ebook."
 lang: en
 locale: en
 ref: shop-prod-ebook-immagini-con-l-ai-guida-pratica-ai-prompt
+tr: tradotto
+tr_hash: 45h
 ---

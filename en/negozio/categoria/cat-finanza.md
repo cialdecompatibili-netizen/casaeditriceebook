@@ -7,4 +7,6 @@ description: "Ebooks: Personal Finance."
 lang: en
 locale: en
 ref: shop-cat-finanza
+tr: tradotto
+tr_hash: 45h
 ---

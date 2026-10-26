@@ -7,4 +7,6 @@ description: "Smartphone Photography - PDF ebook."
 lang: en
 locale: en
 ref: shop-prod-ebook-fotografia-con-lo-smartphone
+tr: tradotto
+tr_hash: 45h
 ---

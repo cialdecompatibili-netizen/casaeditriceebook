@@ -7,4 +7,6 @@ description: "Ebooks: Languages & Study."
 lang: en
 locale: en
 ref: shop-cat-lingue-studio
+tr: tradotto
+tr_hash: 45h
 ---

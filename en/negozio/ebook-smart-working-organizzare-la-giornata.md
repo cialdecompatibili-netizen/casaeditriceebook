@@ -7,4 +7,6 @@ description: "Remote Work: Organize Your Day - PDF ebook."
 lang: en
 locale: en
 ref: shop-prod-ebook-smart-working-organizzare-la-giornata
+tr: tradotto
+tr_hash: 45h
 ---

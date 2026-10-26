@@ -7,4 +7,6 @@ description: "Ebooks: AI & Prompts."
 lang: en
 locale: en
 ref: shop-cat-ai-prompt
+tr: tradotto
+tr_hash: 45h
 ---

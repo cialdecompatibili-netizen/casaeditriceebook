@@ -7,4 +7,6 @@ description: "Graphic Design for Non-Designers - PDF ebook."
 lang: en
 locale: en
 ref: shop-prod-ebook-grafica-per-non-designer
+tr: tradotto
+tr_hash: 45h
 ---

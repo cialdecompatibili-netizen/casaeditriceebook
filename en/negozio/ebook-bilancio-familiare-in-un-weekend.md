@@ -7,4 +7,6 @@ description: "Family Budget in One Weekend - PDF ebook."
 lang: en
 locale: en
 ref: shop-prod-ebook-bilancio-familiare-in-un-weekend
+tr: tradotto
+tr_hash: 45h
 ---

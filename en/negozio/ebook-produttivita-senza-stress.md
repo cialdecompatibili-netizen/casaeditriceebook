@@ -7,4 +7,6 @@ description: "Stress-Free Productivity - PDF ebook."
 lang: en
 locale: en
 ref: shop-prod-ebook-produttivita-senza-stress
+tr: tradotto
+tr_hash: 45h
 ---

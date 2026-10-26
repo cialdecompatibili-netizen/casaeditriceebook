@@ -7,4 +7,6 @@ description: "SEO for Small Websites - PDF ebook."
 lang: en
 locale: en
 ref: shop-prod-ebook-seo-per-piccoli-siti
+tr: tradotto
+tr_hash: 45h
 ---

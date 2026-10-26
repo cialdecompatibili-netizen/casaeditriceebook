@@ -7,4 +7,6 @@ description: "Ebooks: Creativity."
 lang: en
 locale: en
 ref: shop-cat-creativita
+tr: tradotto
+tr_hash: 45h
 ---

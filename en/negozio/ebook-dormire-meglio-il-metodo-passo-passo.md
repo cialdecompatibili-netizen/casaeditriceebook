@@ -7,4 +7,6 @@ description: "Sleep Better: Step by Step - PDF ebook."
 lang: en
 locale: en
 ref: shop-prod-ebook-dormire-meglio-il-metodo-passo-passo
+tr: tradotto
+tr_hash: 45h
 ---
