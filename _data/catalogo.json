@@ -4,7 +4,7 @@
     {
       "nome": "Crescita personale",
       "id": "crescita-personale",
-      "icona": "\ud83c\udf31",
+      "icona": "🌱",
       "tr": {
         "en": {
           "nome": "Self-Improvement"
@@ -14,7 +14,7 @@
     {
       "nome": "Sviluppo personale",
       "id": "sviluppo-personale",
-      "icona": "\ud83c\udf31",
+      "icona": "🌱",
       "tr": {
         "en": {
           "nome": "Personal Growth"
@@ -113,7 +113,7 @@
     {
       "nome": "Computer e tecnologia",
       "id": "computer-tecnologia",
-      "icona": "\ud83d\udcbb",
+      "icona": "💻",
       "tr": {
         "en": {
           "nome": "Computers & Technology"
@@ -123,7 +123,7 @@
     {
       "nome": "AI e prompt",
       "id": "ai-prompt",
-      "icona": "\ud83e\udd16",
+      "icona": "🤖",
       "tr": {
         "en": {
           "nome": "AI & Prompts"
@@ -211,7 +211,7 @@
     {
       "nome": "Economia, affari e finanza",
       "id": "economia-affari-finanza",
-      "icona": "\ud83d\udcbc",
+      "icona": "💼",
       "tr": {
         "en": {
           "nome": "Business, Economics & Finance"
@@ -221,7 +221,7 @@
     {
       "nome": "Finanza personale",
       "id": "finanza",
-      "icona": "\ud83d\udcb6",
+      "icona": "💶",
       "tr": {
         "en": {
           "nome": "Personal Finance"
@@ -232,7 +232,7 @@
     {
       "nome": "Business",
       "id": "business",
-      "icona": "\ud83d\udcbc",
+      "icona": "💼",
       "tr": {
         "en": {
           "nome": "Business"
@@ -375,7 +375,7 @@
     {
       "nome": "Salute, fitness e dieta",
       "id": "salute-fitness-dieta",
-      "icona": "\ud83e\uddd8",
+      "icona": "🧘",
       "tr": {
         "en": {
           "nome": "Health, Fitness & Dieting"
@@ -385,7 +385,7 @@
     {
       "nome": "Salute e benessere",
       "id": "salute",
-      "icona": "\ud83e\uddd8",
+      "icona": "🧘",
       "tr": {
         "en": {
           "nome": "Health & Wellness"
@@ -462,7 +462,7 @@
     {
       "nome": "Istruzione e studio",
       "id": "istruzione-studio",
-      "icona": "\ud83d\udcda",
+      "icona": "📚",
       "tr": {
         "en": {
           "nome": "Education & Study"
@@ -472,7 +472,7 @@
     {
       "nome": "Lingue e studio",
       "id": "lingue-studio",
-      "icona": "\ud83d\udcda",
+      "icona": "📚",
       "tr": {
         "en": {
           "nome": "Languages & Study"
@@ -538,7 +538,7 @@
     {
       "nome": "Arte, design e fotografia",
       "id": "arte-design-fotografia",
-      "icona": "\ud83c\udfa8",
+      "icona": "🎨",
       "tr": {
         "en": {
           "nome": "Art, Design & Photography"
@@ -548,7 +548,7 @@
     {
       "nome": "Creativit\u00e0",
       "id": "creativita",
-      "icona": "\ud83c\udfa8",
+      "icona": "🎨",
       "tr": {
         "en": {
           "nome": "Creativity"
@@ -625,7 +625,7 @@
     {
       "nome": "Cucina, cibi e vini",
       "id": "cucina-cibi-vini",
-      "icona": "\ud83c\udf73",
+      "icona": "🍳",
       "tr": {
         "en": {
           "nome": "Cooking, Food & Wine"
@@ -690,7 +690,7 @@
     {
       "nome": "Hobby, casa e tempo libero",
       "id": "hobby-casa-tempo-libero",
-      "icona": "\ud83c\udfe1",
+      "icona": "🏡",
       "tr": {
         "en": {
           "nome": "Hobbies, Home & Leisure"
@@ -885,7 +885,7 @@
     {
       "nome": "Saggistica e varia",
       "id": "saggistica-varia",
-      "icona": "\ud83d\udcd6",
+      "icona": "📖",
       "tr": {
         "en": {
           "nome": "Non-fiction & General"
@@ -972,7 +972,7 @@
     {
       "nome": "Biografie e memorie",
       "id": "biografie-memorie",
-      "icona": "\ud83d\udc64",
+      "icona": "👤",
       "tr": {
         "en": {
           "nome": "Biographies & Memoirs"
@@ -1432,7 +1432,7 @@
     {
       "nome": "Gialli, thriller e suspense",
       "id": "gialli-thriller-suspense",
-      "icona": "\ud83d\udd0d",
+      "icona": "🔍",
       "tr": {
         "en": {
           "nome": "Mystery, Thriller & Suspense"
@@ -1694,7 +1694,7 @@
     {
       "nome": "Fantascienza e fantasy",
       "id": "fantascienza-fantasy",
-      "icona": "\ud83d\ude80",
+      "icona": "🚀",
       "tr": {
         "en": {
           "nome": "Science Fiction & Fantasy"
@@ -1781,7 +1781,7 @@
     {
       "nome": "Fumetti, graphic novel e manga",
       "id": "fumetti-graphic-novel-manga",
-      "icona": "\ud83d\udca5",
+      "icona": "💥",
       "tr": {
         "en": {
           "nome": "Comics, Graphic Novels & Manga"
@@ -1967,7 +1967,7 @@
     {
       "nome": "Ragazzi e young adult",
       "id": "ragazzi-young-adult",
-      "icona": "\ud83c\udfa7",
+      "icona": "🎧",
       "tr": {
         "en": {
           "nome": "Teen & Young Adult"
@@ -2120,7 +2120,7 @@
     {
       "nome": "Per bambini",
       "id": "per-bambini",
-      "icona": "\ud83e\uddf8",
+      "icona": "🧸",
       "tr": {
         "en": {
           "nome": "Children's Books"
@@ -2314,7 +2314,7 @@
       "descrizione": "Ebook PDF, download immediato. Argomento: ai e prompt.",
       "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
       "immagine": "",
-      "icona": "\ud83e\udd16",
+      "icona": "🤖",
       "visibile": true,
       "tr": {
         "en": {
@@ -2333,7 +2333,7 @@
       "descrizione": "Ebook PDF, download immediato. Argomento: ai e prompt.",
       "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
       "immagine": "",
-      "icona": "\ud83e\udd16",
+      "icona": "🤖",
       "visibile": true,
       "tr": {
         "en": {
@@ -2352,7 +2352,7 @@
       "descrizione": "Ebook PDF, download immediato. Argomento: ai e prompt.",
       "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
       "immagine": "",
-      "icona": "\ud83e\udd16",
+      "icona": "🤖",
       "visibile": true,
       "tr": {
         "en": {
@@ -2371,7 +2371,7 @@
       "descrizione": "Ebook PDF, download immediato. Argomento: creativit\u00e0.",
       "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
       "immagine": "",
-      "icona": "\ud83c\udfa8",
+      "icona": "🎨",
       "visibile": true,
       "tr": {
         "en": {
@@ -2390,7 +2390,7 @@
       "descrizione": "Ebook PDF, download immediato. Argomento: creativit\u00e0.",
       "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
       "immagine": "",
-      "icona": "\ud83c\udfa8",
+      "icona": "🎨",
       "visibile": true,
       "tr": {
         "en": {
@@ -2409,7 +2409,7 @@
       "descrizione": "Ebook PDF, download immediato. Argomento: creativit\u00e0.",
       "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
       "immagine": "",
-      "icona": "\ud83c\udfa8",
+      "icona": "🎨",
       "visibile": true,
       "tr": {
         "en": {
@@ -2428,7 +2428,7 @@
       "descrizione": "Ebook PDF, download immediato. Argomento: lingue e studio.",
       "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
       "immagine": "",
-      "icona": "\ud83d\udcda",
+      "icona": "📚",
       "visibile": true,
       "tr": {
         "en": {
@@ -2447,7 +2447,7 @@
       "descrizione": "Ebook PDF, download immediato. Argomento: lingue e studio.",
       "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
       "immagine": "",
-      "icona": "\ud83d\udcda",
+      "icona": "📚",
       "visibile": true,
       "tr": {
         "en": {
@@ -2466,7 +2466,7 @@
       "descrizione": "Ebook PDF, download immediato. Argomento: lingue e studio.",
       "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
       "immagine": "",
-      "icona": "\ud83d\udcda",
+      "icona": "📚",
       "visibile": true,
       "tr": {
         "en": {
@@ -2485,7 +2485,7 @@
       "descrizione": "Ebook PDF, download immediato. Argomento: sviluppo personale.",
       "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
       "immagine": "",
-      "icona": "\ud83c\udf31",
+      "icona": "🌱",
       "visibile": true,
       "tr": {
         "en": {
@@ -2504,7 +2504,7 @@
       "descrizione": "Ebook PDF, download immediato. Argomento: sviluppo personale.",
       "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
       "immagine": "",
-      "icona": "\ud83c\udf31",
+      "icona": "🌱",
       "visibile": true,
       "tr": {
         "en": {
@@ -2523,7 +2523,7 @@
       "descrizione": "Ebook PDF, download immediato. Argomento: sviluppo personale.",
       "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
       "immagine": "",
-      "icona": "\ud83c\udf31",
+      "icona": "🌱",
       "visibile": true,
       "tr": {
         "en": {
@@ -2542,7 +2542,7 @@
       "descrizione": "Ebook PDF, download immediato. Argomento: finanza personale.",
       "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
       "immagine": "",
-      "icona": "\ud83d\udcb6",
+      "icona": "💶",
       "visibile": true,
       "tr": {
         "en": {
@@ -2561,7 +2561,7 @@
       "descrizione": "Ebook PDF, download immediato. Argomento: finanza personale.",
       "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
       "immagine": "",
-      "icona": "\ud83d\udcb6",
+      "icona": "💶",
       "visibile": true,
       "tr": {
         "en": {
@@ -2580,7 +2580,7 @@
       "descrizione": "Ebook PDF, download immediato. Argomento: finanza personale.",
       "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
       "immagine": "",
-      "icona": "\ud83d\udcb6",
+      "icona": "💶",
       "visibile": true,
       "tr": {
         "en": {
@@ -2599,7 +2599,7 @@
       "descrizione": "Ebook PDF, download immediato. Argomento: salute e benessere.",
       "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
       "immagine": "",
-      "icona": "\ud83e\uddd8",
+      "icona": "🧘",
       "visibile": true,
       "tr": {
         "en": {
@@ -2618,7 +2618,7 @@
       "descrizione": "Ebook PDF, download immediato. Argomento: salute e benessere.",
       "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
       "immagine": "",
-      "icona": "\ud83e\uddd8",
+      "icona": "🧘",
       "visibile": true,
       "tr": {
         "en": {
@@ -2637,7 +2637,7 @@
       "descrizione": "Ebook PDF, download immediato. Argomento: salute e benessere.",
       "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
       "immagine": "",
-      "icona": "\ud83e\uddd8",
+      "icona": "🧘",
       "visibile": true,
       "tr": {
         "en": {
@@ -2656,7 +2656,7 @@
       "descrizione": "Ebook PDF, download immediato. Argomento: business.",
       "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
       "immagine": "",
-      "icona": "\ud83d\udcbc",
+      "icona": "💼",
       "visibile": true,
       "tr": {
         "en": {
@@ -2675,7 +2675,7 @@
       "descrizione": "Ebook PDF, download immediato. Argomento: business.",
       "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
       "immagine": "",
-      "icona": "\ud83d\udcbc",
+      "icona": "💼",
       "visibile": true,
       "tr": {
         "en": {
@@ -2694,7 +2694,7 @@
       "descrizione": "Ebook PDF, download immediato. Argomento: business.",
       "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
       "immagine": "",
-      "icona": "\ud83d\udcbc",
+      "icona": "💼",
       "visibile": true,
       "tr": {
         "en": {
