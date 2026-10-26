@@ -1,6 +1,30 @@
 [
   {
-    "nome": "esempio",
-    "slug": "esempio"
+    "nome": "ai-prompt",
+    "slug": "ai-prompt"
+  },
+  {
+    "nome": "creativita",
+    "slug": "creativita"
+  },
+  {
+    "nome": "lingue-studio",
+    "slug": "lingue-studio"
+  },
+  {
+    "nome": "sviluppo-personale",
+    "slug": "sviluppo-personale"
+  },
+  {
+    "nome": "finanza",
+    "slug": "finanza"
+  },
+  {
+    "nome": "salute",
+    "slug": "salute"
+  },
+  {
+    "nome": "business",
+    "slug": "business"
   }
 ]

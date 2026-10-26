@@ -2,12 +2,72 @@
   "_nota": "Catalogo dello shop (serve solo con ecommerce: true in _config.yml). Prezzi in CENTESIMI. Ogni prodotto/categoria ha anche una pagina in _negozio/ (layout negozio-prodotto con pid=<id>, negozio-categoria con cid=<id>). L'id categoria e' riservato. tipo: digitale (niente spedizione) o fisico. visibile:false nasconde senza cancellare. TRADUZIONI: ogni categoria/prodotto puo' avere \"tr\": {\"en\": {\"nome\": \"...\", \"descrizione\": \"...\", \"descrizione_completa\": \"...\"}}; campo mancante = si usa l'italiano.",
   "categorie": [
     {
-      "nome": "Esempio",
-      "id": "esempio",
-      "icona": "🛍️",
+      "nome": "AI e prompt",
+      "id": "ai-prompt",
+      "icona": "🤖",
       "tr": {
         "en": {
-          "nome": "Example"
+          "nome": "AI & Prompts"
+        }
+      }
+    },
+    {
+      "nome": "Creatività",
+      "id": "creativita",
+      "icona": "🎨",
+      "tr": {
+        "en": {
+          "nome": "Creativity"
+        }
+      }
+    },
+    {
+      "nome": "Lingue e studio",
+      "id": "lingue-studio",
+      "icona": "📚",
+      "tr": {
+        "en": {
+          "nome": "Languages & Study"
+        }
+      }
+    },
+    {
+      "nome": "Sviluppo personale",
+      "id": "sviluppo-personale",
+      "icona": "🌱",
+      "tr": {
+        "en": {
+          "nome": "Personal Growth"
+        }
+      }
+    },
+    {
+      "nome": "Finanza personale",
+      "id": "finanza",
+      "icona": "💶",
+      "tr": {
+        "en": {
+          "nome": "Personal Finance"
+        }
+      }
+    },
+    {
+      "nome": "Salute e benessere",
+      "id": "salute",
+      "icona": "🧘",
+      "tr": {
+        "en": {
+          "nome": "Health & Wellness"
+        }
+      }
+    },
+    {
+      "nome": "Business",
+      "id": "business",
+      "icona": "💼",
+      "tr": {
+        "en": {
+          "nome": "Business"
         }
       }
     }
@@ -15,20 +75,400 @@
   "prodotti": [
     {
       "tipo": "digitale",
-      "id": "prodotto-esempio",
-      "nome": "Prodotto di esempio",
-      "categoria": "esempio",
-      "prezzo_centesimi": 1000,
-      "descrizione": "Descrizione breve del prodotto di esempio.",
-      "descrizione_completa": "Descrizione completa del prodotto.\nOgni riga diventa un paragrafo.",
+      "id": "ebook-150-prompt-chatgpt-per-lavorare-meglio",
+      "nome": "150 prompt ChatGPT per lavorare meglio",
+      "categoria": "ai-prompt",
+      "prezzo_centesimi": 990,
+      "descrizione": "Ebook PDF, download immediato. Argomento: ai e prompt.",
+      "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
       "immagine": "",
-      "icona": "🛍️",
+      "icona": "🤖",
       "visibile": true,
       "tr": {
         "en": {
-          "nome": "Example product",
-          "descrizione": "Short description of the example product.",
-          "descrizione_completa": "Full description of the product.\nEach line becomes a paragraph."
+          "nome": "150 ChatGPT Prompts to Work Smarter",
+          "descrizione": "PDF ebook, instant download. Topic: ai & prompts.",
+          "descrizione_completa": "A practical PDF guide you can apply right away.\nInstant download after payment.\nIncluded: free preview of the first chapters."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "ebook-guadagnare-con-l-ai-10-modi-concreti",
+      "nome": "Guadagnare con l'AI: 10 modi concreti",
+      "categoria": "ai-prompt",
+      "prezzo_centesimi": 1490,
+      "descrizione": "Ebook PDF, download immediato. Argomento: ai e prompt.",
+      "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
+      "immagine": "",
+      "icona": "🤖",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Making Money with AI: 10 Practical Ways",
+          "descrizione": "PDF ebook, instant download. Topic: ai & prompts.",
+          "descrizione_completa": "A practical PDF guide you can apply right away.\nInstant download after payment.\nIncluded: free preview of the first chapters."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "ebook-immagini-con-l-ai-guida-pratica-ai-prompt",
+      "nome": "Immagini con l'AI: guida pratica ai prompt",
+      "categoria": "ai-prompt",
+      "prezzo_centesimi": 1290,
+      "descrizione": "Ebook PDF, download immediato. Argomento: ai e prompt.",
+      "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
+      "immagine": "",
+      "icona": "🤖",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "AI Images: A Practical Prompt Guide",
+          "descrizione": "PDF ebook, instant download. Topic: ai & prompts.",
+          "descrizione_completa": "A practical PDF guide you can apply right away.\nInstant download after payment.\nIncluded: free preview of the first chapters."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "ebook-scrivere-un-libro-in-30-giorni",
+      "nome": "Scrivere un libro in 30 giorni",
+      "categoria": "creativita",
+      "prezzo_centesimi": 1490,
+      "descrizione": "Ebook PDF, download immediato. Argomento: creatività.",
+      "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
+      "immagine": "",
+      "icona": "🎨",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Write a Book in 30 Days",
+          "descrizione": "PDF ebook, instant download. Topic: creativity.",
+          "descrizione_completa": "A practical PDF guide you can apply right away.\nInstant download after payment.\nIncluded: free preview of the first chapters."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "ebook-fotografia-con-lo-smartphone",
+      "nome": "Fotografia con lo smartphone",
+      "categoria": "creativita",
+      "prezzo_centesimi": 990,
+      "descrizione": "Ebook PDF, download immediato. Argomento: creatività.",
+      "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
+      "immagine": "",
+      "icona": "🎨",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Smartphone Photography",
+          "descrizione": "PDF ebook, instant download. Topic: creativity.",
+          "descrizione_completa": "A practical PDF guide you can apply right away.\nInstant download after payment.\nIncluded: free preview of the first chapters."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "ebook-grafica-per-non-designer",
+      "nome": "Grafica per non designer",
+      "categoria": "creativita",
+      "prezzo_centesimi": 1290,
+      "descrizione": "Ebook PDF, download immediato. Argomento: creatività.",
+      "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
+      "immagine": "",
+      "icona": "🎨",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Graphic Design for Non-Designers",
+          "descrizione": "PDF ebook, instant download. Topic: creativity.",
+          "descrizione_completa": "A practical PDF guide you can apply right away.\nInstant download after payment.\nIncluded: free preview of the first chapters."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "ebook-inglese-per-il-lavoro-300-frasi-utili",
+      "nome": "Inglese per il lavoro: 300 frasi utili",
+      "categoria": "lingue-studio",
+      "prezzo_centesimi": 990,
+      "descrizione": "Ebook PDF, download immediato. Argomento: lingue e studio.",
+      "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
+      "immagine": "",
+      "icona": "📚",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Business English: 300 Useful Phrases",
+          "descrizione": "PDF ebook, instant download. Topic: languages & study.",
+          "descrizione_completa": "A practical PDF guide you can apply right away.\nInstant download after payment.\nIncluded: free preview of the first chapters."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "ebook-metodo-di-studio-per-esami-e-concorsi",
+      "nome": "Metodo di studio per esami e concorsi",
+      "categoria": "lingue-studio",
+      "prezzo_centesimi": 1290,
+      "descrizione": "Ebook PDF, download immediato. Argomento: lingue e studio.",
+      "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
+      "immagine": "",
+      "icona": "📚",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Study Method for Exams",
+          "descrizione": "PDF ebook, instant download. Topic: languages & study.",
+          "descrizione_completa": "A practical PDF guide you can apply right away.\nInstant download after payment.\nIncluded: free preview of the first chapters."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "ebook-imparare-una-lingua-da-soli",
+      "nome": "Imparare una lingua da soli",
+      "categoria": "lingue-studio",
+      "prezzo_centesimi": 990,
+      "descrizione": "Ebook PDF, download immediato. Argomento: lingue e studio.",
+      "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
+      "immagine": "",
+      "icona": "📚",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Learn a Language on Your Own",
+          "descrizione": "PDF ebook, instant download. Topic: languages & study.",
+          "descrizione_completa": "A practical PDF guide you can apply right away.\nInstant download after payment.\nIncluded: free preview of the first chapters."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "ebook-abitudini-il-metodo-dei-21-giorni",
+      "nome": "Abitudini: il metodo dei 21 giorni",
+      "categoria": "sviluppo-personale",
+      "prezzo_centesimi": 990,
+      "descrizione": "Ebook PDF, download immediato. Argomento: sviluppo personale.",
+      "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
+      "immagine": "",
+      "icona": "🌱",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Habits: The 21-Day Method",
+          "descrizione": "PDF ebook, instant download. Topic: personal growth.",
+          "descrizione_completa": "A practical PDF guide you can apply right away.\nInstant download after payment.\nIncluded: free preview of the first chapters."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "ebook-produttivita-senza-stress",
+      "nome": "Produttività senza stress",
+      "categoria": "sviluppo-personale",
+      "prezzo_centesimi": 1290,
+      "descrizione": "Ebook PDF, download immediato. Argomento: sviluppo personale.",
+      "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
+      "immagine": "",
+      "icona": "🌱",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Stress-Free Productivity",
+          "descrizione": "PDF ebook, instant download. Topic: personal growth.",
+          "descrizione_completa": "A practical PDF guide you can apply right away.\nInstant download after payment.\nIncluded: free preview of the first chapters."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "ebook-smart-working-organizzare-la-giornata",
+      "nome": "Smart working: organizzare la giornata",
+      "categoria": "sviluppo-personale",
+      "prezzo_centesimi": 990,
+      "descrizione": "Ebook PDF, download immediato. Argomento: sviluppo personale.",
+      "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
+      "immagine": "",
+      "icona": "🌱",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Remote Work: Organize Your Day",
+          "descrizione": "PDF ebook, instant download. Topic: personal growth.",
+          "descrizione_completa": "A practical PDF guide you can apply right away.\nInstant download after payment.\nIncluded: free preview of the first chapters."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "ebook-bilancio-familiare-in-un-weekend",
+      "nome": "Bilancio familiare in un weekend",
+      "categoria": "finanza",
+      "prezzo_centesimi": 990,
+      "descrizione": "Ebook PDF, download immediato. Argomento: finanza personale.",
+      "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
+      "immagine": "",
+      "icona": "💶",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Family Budget in One Weekend",
+          "descrizione": "PDF ebook, instant download. Topic: personal finance.",
+          "descrizione_completa": "A practical PDF guide you can apply right away.\nInstant download after payment.\nIncluded: free preview of the first chapters."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "ebook-investire-da-zero-etf-spiegati-semplici",
+      "nome": "Investire da zero: ETF spiegati semplici",
+      "categoria": "finanza",
+      "prezzo_centesimi": 1990,
+      "descrizione": "Ebook PDF, download immediato. Argomento: finanza personale.",
+      "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
+      "immagine": "",
+      "icona": "💶",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Investing from Scratch: ETFs Explained",
+          "descrizione": "PDF ebook, instant download. Topic: personal finance.",
+          "descrizione_completa": "A practical PDF guide you can apply right away.\nInstant download after payment.\nIncluded: free preview of the first chapters."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "ebook-partita-iva-forfettaria-guida-pratica",
+      "nome": "Partita IVA forfettaria: guida pratica",
+      "categoria": "finanza",
+      "prezzo_centesimi": 1990,
+      "descrizione": "Ebook PDF, download immediato. Argomento: finanza personale.",
+      "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
+      "immagine": "",
+      "icona": "💶",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Flat-Rate VAT Number: Practical Guide",
+          "descrizione": "PDF ebook, instant download. Topic: personal finance.",
+          "descrizione_completa": "A practical PDF guide you can apply right away.\nInstant download after payment.\nIncluded: free preview of the first chapters."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "ebook-dormire-meglio-il-metodo-passo-passo",
+      "nome": "Dormire meglio: il metodo passo passo",
+      "categoria": "salute",
+      "prezzo_centesimi": 990,
+      "descrizione": "Ebook PDF, download immediato. Argomento: salute e benessere.",
+      "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
+      "immagine": "",
+      "icona": "🧘",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Sleep Better: Step by Step",
+          "descrizione": "PDF ebook, instant download. Topic: health & wellness.",
+          "descrizione_completa": "A practical PDF guide you can apply right away.\nInstant download after payment.\nIncluded: free preview of the first chapters."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "ebook-allenarsi-a-casa-programma-di-8-settimane",
+      "nome": "Allenarsi a casa: programma di 8 settimane",
+      "categoria": "salute",
+      "prezzo_centesimi": 1490,
+      "descrizione": "Ebook PDF, download immediato. Argomento: salute e benessere.",
+      "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
+      "immagine": "",
+      "icona": "🧘",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Home Workout: 8-Week Program",
+          "descrizione": "PDF ebook, instant download. Topic: health & wellness.",
+          "descrizione_completa": "A practical PDF guide you can apply right away.\nInstant download after payment.\nIncluded: free preview of the first chapters."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "ebook-meditazione-per-chi-non-ha-tempo",
+      "nome": "Meditazione per chi non ha tempo",
+      "categoria": "salute",
+      "prezzo_centesimi": 790,
+      "descrizione": "Ebook PDF, download immediato. Argomento: salute e benessere.",
+      "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
+      "immagine": "",
+      "icona": "🧘",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Meditation for Busy People",
+          "descrizione": "PDF ebook, instant download. Topic: health & wellness.",
+          "descrizione_completa": "A practical PDF guide you can apply right away.\nInstant download after payment.\nIncluded: free preview of the first chapters."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "ebook-aprire-un-e-commerce-dalla-a-alla-z",
+      "nome": "Aprire un e-commerce: dalla A alla Z",
+      "categoria": "business",
+      "prezzo_centesimi": 2490,
+      "descrizione": "Ebook PDF, download immediato. Argomento: business.",
+      "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
+      "immagine": "",
+      "icona": "💼",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Start an E-commerce Store: A to Z",
+          "descrizione": "PDF ebook, instant download. Topic: business.",
+          "descrizione_completa": "A practical PDF guide you can apply right away.\nInstant download after payment.\nIncluded: free preview of the first chapters."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "ebook-freelance-trovare-i-primi-clienti",
+      "nome": "Freelance: trovare i primi clienti",
+      "categoria": "business",
+      "prezzo_centesimi": 1490,
+      "descrizione": "Ebook PDF, download immediato. Argomento: business.",
+      "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
+      "immagine": "",
+      "icona": "💼",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "Freelancing: Landing Your First Clients",
+          "descrizione": "PDF ebook, instant download. Topic: business.",
+          "descrizione_completa": "A practical PDF guide you can apply right away.\nInstant download after payment.\nIncluded: free preview of the first chapters."
+        }
+      }
+    },
+    {
+      "tipo": "digitale",
+      "id": "ebook-seo-per-piccoli-siti",
+      "nome": "SEO per piccoli siti",
+      "categoria": "business",
+      "prezzo_centesimi": 1490,
+      "descrizione": "Ebook PDF, download immediato. Argomento: business.",
+      "descrizione_completa": "Guida pratica in formato PDF, scritta per essere applicata subito.\nDownload immediato dopo il pagamento.\nIncluso: anteprima gratuita dei primi capitoli.",
+      "immagine": "",
+      "icona": "💼",
+      "visibile": true,
+      "tr": {
+        "en": {
+          "nome": "SEO for Small Websites",
+          "descrizione": "PDF ebook, instant download. Topic: business.",
+          "descrizione_completa": "A practical PDF guide you can apply right away.\nInstant download after payment.\nIncluded: free preview of the first chapters."
         }
       }
     }
